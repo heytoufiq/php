@@ -51,7 +51,7 @@ header('X-XSS-Protection:0');
                     <label for="lname">Last Name</label>
                     <input type="text" name="lname" id="lname">
                     <label for="photo">Photo</label>
-                    <input type="file" name="photo" id="lname"><br/>
+                    <input type="file" name="photo" id="photo"><br/>
                     <button type='submit'>Submit</button>
                 </form>
             </div>
